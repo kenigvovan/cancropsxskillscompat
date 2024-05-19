@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "modid": "cancropsxskillscompat",
+  "name": "cancropsxskillscompat",
+  "authors": [
+    "KenigVovan"
+  ],
+  "description": "Compatibility for xskils/cancrops",
+  "version": "1.0.6",
+  "dependencies": {
+    "game": "",
+    "xskills": "",
+    "cancrops": ""
+  }
+}
